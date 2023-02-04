@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Shift JIS"?>
+<!--
+    en:0
+    ja:11
+    sc:13
+    tc:14
+    ru:5
+    es:2
+
+    中国語以外はロケールID
+    (流石に分かりにくいため)
+-->
+<Translate>
+    <string key="id">
+        <en>0</en>
+        <ja>11</ja>
+        <sc>13</sc>
+        <tc>14</tc>
+        <ru>5</ru>
+        <es>2</es>
+    </string>
+</Translate>
